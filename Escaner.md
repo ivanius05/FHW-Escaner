@@ -1,5 +1,7 @@
 # Escáner
 
+![scan](https://github.com/ivanius05/FHW-Escaner/blob/main/img/scan.jpg)
+
 ## El escáner es un dispositivo óptico que analiza una imagen, y la convierte a un formato digital, o lee información y la descodifica.
 
 ### Existen distintos tipos de escáneres, entre estos, se encuentran:
